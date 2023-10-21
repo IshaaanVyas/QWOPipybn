@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.12",
+    "heartbeatAt": "2023-10-21T10:41:19.240787",
+    "startedAt": "2023-10-21T10:41:17.887483",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "qwop-ai.ipynb",
+    "codePathLocal": "qwop-ai.ipynb",
+    "root": "C:\\Users\\Ishaa\\OneDrive\\Desktop\\CS4246\\CUDATest",
+    "host": "DESKTOP-TO5H2A5",
+    "username": "Ishaa",
+    "executable": "C:\\Users\\Ishaa\\anaconda3\\envs\\qwop\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 475.94628524780273,
+            "used": 380.09838485717773
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.9454345703125
+    }
+}

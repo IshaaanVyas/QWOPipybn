@@ -1,3 +1,6 @@
 wandb
 checkpoints
 .ipynb_checkpoints
+checkpoints/model_25000.zip
+checkpoints/model_50000.zip
+checkpoints/model_75000.zip
